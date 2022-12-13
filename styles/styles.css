@@ -1,18 +1,18 @@
 body {
-    color: #ee1616;
+  color: #ee1616;
 }
 
 .post {
-    color: green;
+  color: green;
 }
 
 .post-link {
-    color: currentColor;
+  color: currentColor;
 }
 
 .post-link:hover {
-    color: red;
+  color: red;
 }
 .post-link:active {
-    color: blue;
+  color: blue;
 }
